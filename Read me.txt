@@ -1,0 +1,2 @@
+1. Run basic indicator. It's based on original data.
+2.Run technical indicators. It's based on the outputs of the first step.
